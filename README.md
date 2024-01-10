@@ -9,7 +9,7 @@
 
 ## Overview
 
-ip info is an advanced artificial intelligence library designed to assist with the development of sophisticated and efficient software solutions.
+ip info It is a library to show information about the IP address and its location on the map via GPS
 
 ## Features
 
